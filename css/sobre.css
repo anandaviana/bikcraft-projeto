@@ -1,0 +1,62 @@
+.interna_sobre {
+  background: url("../img/bg-sobre.jpg") no-repeat center;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+  padding-top: 30px;margin-bottom: 40px;
+}
+
+.interna_sobre h1:after  {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+  margin: 6px auto 10px auto;
+}
+.missão-sobre {
+  padding-top: 60px;
+}
+.missao-sobre p {
+  font-size: 18px;
+  line-height: 25px;
+  margin-bottom: 1em;
+  padding-right: 40px;
+}
+.foto-equipe {
+ margin-top: 30px;
+}
+
+#teste {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size:18px;
+  line-height: 30px;
+}
+
+.header_menu ul li a.ativo {
+  color: #fff;
+}
+
+.qualidade-sobre {
+  padding: 40px 0;
+  margin-bottom: 20px;
+ 
+}
+.qualidade-sobre img {
+  margin: 0 auto;
+}
+.qualidade-sobre:after {
+  content:" ";
+  width: 623px;
+  height: 111.5px;
+  display: block;
+  background: url("../img/linhas-a.svg") no-repeat center;
+  position: inherit;
+  top:-220px;
+  right:-170px;
+  z-index:-1;
+ 
+}
+
+
+
